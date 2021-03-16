@@ -42,6 +42,10 @@ h1{
     color:#F6BF2F;
 }
 
+#img-div{
+    margin:0;
+}
+
 img {
     width:100%;
     max-width:800px;
